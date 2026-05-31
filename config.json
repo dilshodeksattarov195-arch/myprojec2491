@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userptringify",
+        "uuid": 4341813,
+        "checksum": "4dq2ww"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
